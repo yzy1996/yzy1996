@@ -15,3 +15,18 @@
 
 😄 I’m currently a second-year Ph.D. student at City University of Hong Kong advised by Qingfu Zhang. Before this, I obtained a bachelor degree in Automation at Xi'an Jiaotong University.
 
+#### 1. How do you take notes?
+
+I mainly use [Goodnotes](https://www.goodnotes.com/) for handwriting and `Markdown` for text record.
+
+#### 2. What `Markdown editor` do you use?
+
+I mainly use [Typora](https://typora.io/), sometimes I would also use [VSCode](https://code.visualstudio.com/) with some extensions (e.g. Markdown All in One, Markdown+Math), and recently I find [Mathpix Markdown](https://mathpix.com/docs/mathpix-markdown/overview) is worth your trying. When I need online collaboration, I would use [hackmd](https://hackmd.io/).
+
+#### 3. What `Latex editor` do you use?
+
+I only use [Overleaf](https://www.overleaf.com/) and highly recommend it to you. I also recommend you to subscribe a plan so that you can back up your files via Dropbox.
+
+#### 4. Do you have some tips when using markdown/latex?
+
+Here are some tools I often use: [Mathpix Snipping](https://mathpix.com/) - digitize handwritten or printed text into Latex; [Detexify](https://detexify.kirelabs.org/classify.html) - find the symbol you want by drawing; 
