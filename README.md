@@ -17,7 +17,7 @@
 
 #### 1. How do you take notes?
 
-I mainly use [Goodnotes](https://www.goodnotes.com/) for handwriting and `Markdown` for text record.
+I mainly use [Goodnotes](https://www.goodnotes.com/) for handwriting and `Markdown` for digital writing.
 
 #### 2. What `Markdown editor` do you use?
 
