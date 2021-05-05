@@ -29,4 +29,4 @@ I only use [Overleaf](https://www.overleaf.com/) and highly recommend it to you.
 
 #### 4. Do you have some tips when using markdown/latex?
 
-Here are some tools I often use: [Mathpix Snipping](https://mathpix.com/) - digitize handwritten or printed text into Latex; [Detexify](https://detexify.kirelabs.org/classify.html) - find the symbol you want by drawing; 
+Here are some tools I often use: [Mathpix Snipping](https://mathpix.com/) - digitize handwritten or printed text into Latex; [Detexify](https://detexify.kirelabs.org/classify.html) - find the symbol you want by drawing; [PicGo](https://molunerfinn.com/PicGo/) - picture bed management.
