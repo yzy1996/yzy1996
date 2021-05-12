@@ -21,7 +21,7 @@ I mainly use [Goodnotes](https://www.goodnotes.com/) for handwriting and [Markdo
 
 #### 2. What `Markdown editor` do you use?
 
-I mainly use [Typora](https://typora.io/), sometimes I would also use [VSCode](https://code.visualstudio.com/) with some extensions (e.g. Markdown All in One, Markdown+Math), and recently I find [Mathpix Markdown](https://mathpix.com/docs/mathpix-markdown/overview) is worth your trying. I would use [hackmd](https://hackmd.io/) when I need online collaboration.
+I mainly use [Typora](https://typora.io/), sometimes I would also use [VSCode](https://code.visualstudio.com/) with some extensions (e.g. Markdown All in One, Markdown+Math), and recently I find [Mathpix Markdown](https://mathpix.com/docs/mathpix-markdown/overview) is worth trying. I would use [hackmd](https://hackmd.io/) when I need online collaboration.
 
 #### 3. What `Latex editor` do you use?
 
