@@ -25,7 +25,7 @@ I mainly use [Typora](https://typora.io/), sometimes I would also use [VSCode](h
 
 #### 3. What `Latex editor` do you use?
 
-I only use [Overleaf](https://www.overleaf.com/) and highly recommend it to you. I also recommend you to subscribe a plan so that you can back up your files via Dropbox and access full History feature.
+I only use [Overleaf](https://www.overleaf.com/) and highly recommend. I also recommend subscribing a plan so that you can back up your files via Dropbox and access full History feature.
 
 #### 4. Do you have some tips when using markdown/latex?
 
