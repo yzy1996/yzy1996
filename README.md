@@ -13,7 +13,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yzy1996)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-😄 I’m currently a second-year Ph.D. student at [City University of Hong Kong](https://www.cityu.edu.hk/) advised by [Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhang/). Before this, I obtained a bachelor degree in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+😄 I’m currently a second-year Ph.D. student at [City University of Hong Kong](https://www.cityu.edu.hk/) advised by [Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhang/). Before this, I obtained the bachelor degree in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 #### 1. How do you take notes?
 
