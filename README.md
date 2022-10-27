@@ -13,7 +13,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yzy1996)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-😄 I’m currently a third-year Ph.D. student at [City University of Hong Kong](https://www.cityu.edu.hk/) advised by [Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhang/). Before this, I obtained the bachelor degree in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+<a href="https://www.zhihu.com/people/yzy_1996/posts/posts_by_votes" target="_blank"><img src="https://img.shields.io/badge/Zhihu-white?style=plastic&logo=zhihu"/></a>
+<a href="mailto:im.crazyang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail"/></a>
+
+😄 Hi I'm Zhiyuan. I'm interested in **Generative Models**, **Multi-task Learning**, and **Neural Fields**. I’m currently a third-year Ph.D. student at [City University of Hong Kong](https://www.cityu.edu.hk/) advised by [Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhang/). Before this, I obtained the bachelor degree in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 #### 1. How do you take notes?
 
